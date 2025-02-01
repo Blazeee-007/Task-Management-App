@@ -1,4 +1,4 @@
-[#Task Management App](https://github.com/Blazeee-007/Task-Management-App?tab=readme-ov-file#task-management-app)
+Task Management App
 This project implements a collaborative task management application using React, Firebase, and Material-UI.  It allows teams to create, manage, and share tasks efficiently.
 
 Features
